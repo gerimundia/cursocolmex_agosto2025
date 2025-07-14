@@ -5,6 +5,10 @@ Agosto - Diciembre, 2025
 
 En este repositorio se encuentra todo el material para llevar a cabo las sesiones prácticas del curso de Estadística Básica. 
 
+* [Contenido del programa]().
+* [Presentaciones]().
+* [Ejercicios (códigos)](Códigos)
+
 ---
 
 [Adriana Robles](https://sites.google.com/view/adrianarobles/home?authuser=0)
