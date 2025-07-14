@@ -1,5 +1,6 @@
 # Taller de Introducción a R
 **Colmex | Maestría en Estudios Urbanos 2025-2027 | Estadística Básica**
+
 Agosto - Diciembre, 2025
 
 En este repositorio se encuentra todo el material para llevar a cabo las sesiones prácticas del curso de Estadística Básica. 
