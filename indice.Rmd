@@ -1,0 +1,57 @@
+---
+title: "Taller de Introducción a R"
+author: "Colmex | Maestría en Estudios Urbanos 2025-2027 | Estadística Básica"
+date: "Agosto - Diciembre, 2025"
+output: 
+  html_document:
+    theme: flatly
+    toc: yes
+    toc_float:
+      collapsed: false
+bibliography: taller_intro_r.bib
+csl: apa.csl
+nocite: '@*'
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Índice
+
+## Introducción
+* Introducción a R y RStudio
+* Definiendo mi directorio de trabajo
+* Manejo de paquetes
+* Manejo de scripts
+
+
+## Manejo de objetos
+* Lenguaje orientado a objetos
+* Tipos de objetos
+* Manipulación de objetos (base)
+* Manipulación de objetos con gramática de dplyr
+* Importación y exportación de objetos
+
+## Manejo de datos
+* Generación de variables
+* Objetos tipo factor
+* Exploración de variables categóricas
+* Selección de casos
+* Funciones y loops
+
+## Visualización de datos
+* Introducción a visualización (base)
+* Introducción a gramática de ggplot2
+
+## Estadística descriptiva
+* Medidas de tendencia central
+* Medidas de dispersión
+* Pruebas de hipótesis
+
+## Regresión lineal simple
+* Construcción de modelos de regresión lineal simple
+* Pruebas
+
+# Referencias
