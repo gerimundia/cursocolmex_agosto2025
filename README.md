@@ -6,7 +6,7 @@ Agosto - Diciembre, 2025
 En este repositorio se encuentra todo el material para llevar a cabo las sesiones prácticas del curso de Estadística Básica. 
 
 * [Temas del taller y referencias sugeridas](https://demografiando.pro/indice.html).
-* [Presentaciones](https://drive.google.com/drive/folders/1kuAmXAi3EpglcutkRVRAkfzVhCbtVYfw?usp=sharing).
+* [Presentaciones y materiales](https://drive.google.com/drive/folders/1kuAmXAi3EpglcutkRVRAkfzVhCbtVYfw?usp=sharing).
 * [Ejercicios (códigos)](Códigos)
 
 ---
