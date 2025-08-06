@@ -3,7 +3,7 @@
 
 Agosto - Diciembre, 2025
 
-En este repositorio se encuentra todo el material para llevar a cabo las sesiones prácticas del curso de Estadística Básica. Las presentaciones y materiales de taller lo podrán encontrar en la carpeta en Teams del curso.
+En este repositorio se encuentra el código generado en las sesiones prácticas del curso de Estadística Básica. Las presentaciones y otros materiales de taller lo podrán encontrar en la carpeta en Teams del curso.
 
 * [Temas del taller y referencias sugeridas](https://demografiando.pro/indice.html).
 * [Ejercicios (códigos)](Códigos)
