@@ -92,4 +92,3 @@ svymean(~vivrentada, subset(disenio, cve_ent=="08"), na.rm = T)
 
 # Intervalo de confianza
 confint(svymean(~vivrentada, subset(disenio, cve_ent=="08"), na.rm = T), level = 0.95)
-
